@@ -1,0 +1,7 @@
+/target
+Cargo.lock
+logs.txt
+temp.txt
+src/file_reader/*
+src/file_txt/*
+
